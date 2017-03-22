@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<form>
+  <id>loginForm</id>
+
+
+  <textbox>
+    <id>new filed</id>
+    <description>new field</description>
+  </textbox>
+
+  
+</form>

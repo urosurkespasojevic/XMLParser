@@ -1,0 +1,7 @@
+E:\urke\Projects\XMLParser\XMLParser.BLL\bin\Debug\XMLParser.BLL.dll
+E:\urke\Projects\XMLParser\XMLParser.BLL\bin\Debug\XMLParser.BLL.pdb
+E:\urke\Projects\XMLParser\XMLParser.BLL\obj\Debug\XMLParser.BLL.csprojResolveAssemblyReference.cache
+E:\urke\Projects\XMLParser\XMLParser.BLL\obj\Debug\XMLParser.BLL.dll
+E:\urke\Projects\XMLParser\XMLParser.BLL\obj\Debug\XMLParser.BLL.pdb
+E:\urke\Projects\XMLParser\XMLParser.BLL\bin\Debug\XMLParser.Models.dll
+E:\urke\Projects\XMLParser\XMLParser.BLL\bin\Debug\XMLParser.Models.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "XMLParser.Database", "XMLParser.Database\XMLParser.Database.sqlproj", "{5D640B47-07FA-41A5-A675-17C34FA98920}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{632CEE72-00B7-47A9-A44A-612638C58329}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{29D9F14E-003E-41F1-879A-DCFB91E7CDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLParser.Service", "XMLParser.Service\XMLParser.Service.csproj", "{639D256A-FB19-48F4-8E7B-8428399ACB2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D640B47-07FA-41A5-A675-17C34FA98920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D640B47-07FA-41A5-A675-17C34FA98920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D640B47-07FA-41A5-A675-17C34FA98920}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5D640B47-07FA-41A5-A675-17C34FA98920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D640B47-07FA-41A5-A675-17C34FA98920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D640B47-07FA-41A5-A675-17C34FA98920}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{639D256A-FB19-48F4-8E7B-8428399ACB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639D256A-FB19-48F4-8E7B-8428399ACB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639D256A-FB19-48F4-8E7B-8428399ACB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639D256A-FB19-48F4-8E7B-8428399ACB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D640B47-07FA-41A5-A675-17C34FA98920} = {632CEE72-00B7-47A9-A44A-612638C58329}
+		{639D256A-FB19-48F4-8E7B-8428399ACB2F} = {29D9F14E-003E-41F1-879A-DCFB91E7CDA2}
+	EndGlobalSection
+EndGlobal

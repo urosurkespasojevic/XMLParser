@@ -1,0 +1,5 @@
+E:\urke\Programiranje\XMLParser\XMLParser\XMLParser.Database\bin\Debug\XMLParser.Database.dacpac
+E:\urke\Programiranje\XMLParser\XMLParser\XMLParser.Database\bin\Debug\XMLParser.Database.dll
+E:\urke\Programiranje\XMLParser\XMLParser\XMLParser.Database\bin\Debug\XMLParser.Database.pdb
+E:\urke\Programiranje\XMLParser\XMLParser\XMLParser.Database\obj\Debug\XMLParser.Database.dll
+E:\urke\Programiranje\XMLParser\XMLParser\XMLParser.Database\obj\Debug\XMLParser.Database.pdb
